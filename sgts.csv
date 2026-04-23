@@ -1,0 +1,19 @@
+sgt,id,description
+uzl-Doctors,100,Physician workstations and mobile devices
+uzl-Nurses,101,Nursing staff workstations and tablets
+uzl-Administrative,102,Administrative and front-desk staff
+uzl-IT_Staff,103,IT department and helpdesk staff
+uzl-ClinicalWorkstations,110,General clinical workstations on the ward
+uzl-PACS_Servers,120,Picture Archiving and Communication System servers
+uzl-EMR_Servers,121,Electronic Medical Records servers
+uzl-Infusion_Pumps,130,IV and infusion pump devices
+uzl-PatientMonitors,131,Bedside patient monitoring equipment
+uzl-MedicalImaging,132,MRI CT and X-ray imaging devices
+uzl-Ventilators,133,Mechanical ventilator devices
+uzl-LabEquipment,134,Laboratory analysers and diagnostic equipment
+uzl-BuildingManagement,140,HVAC access control and facilities systems
+uzl-PointOfCare,141,Point-of-care testing devices
+uzl-Guests,150,Patient and visitor Wi-Fi network
+uzl-Quarantine,200,Isolated non-compliant or suspect devices
+uzl-PCI_Terminals,210,Payment card processing terminals
+uzl-SecurityCameras,220,IP surveillance camera network
