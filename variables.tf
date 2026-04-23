@@ -20,3 +20,9 @@ variable "csv_file" {
   type        = string
   default     = "sgts.csv"
 }
+
+variable "ip_sgt_csv_file" {
+  description = "Path to the CSV file containing IP-to-SGT mappings (columns: ip, sgt)"
+  type        = string
+  default     = "ip_sgt_mappings.csv"
+}

@@ -1,0 +1,8 @@
+ip,sgt
+10.0.0.1/32,uzl-Doctors
+10.0.1.0/24,uzl-Nurses
+10.0.2.0/24,uzl-Administrative
+10.0.3.0/24,uzl-IT_Staff
+10.10.0.0/16,uzl-ClinicalWorkstations
+10.20.1.10/32,uzl-PACS_Servers
+10.20.1.11/32,uzl-EMR_Servers
